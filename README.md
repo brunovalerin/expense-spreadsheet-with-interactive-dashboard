@@ -2,8 +2,8 @@
 
 <p align="center">
 <img 
-    src="./assets/Screenshot%20PT.png"
-    width="430"  
+    src="./Assets/Screenshot_PT.png"
+    width="520"  
 />
 </p>
 
