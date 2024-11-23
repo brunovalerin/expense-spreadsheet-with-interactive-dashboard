@@ -2,7 +2,7 @@
 
 <p align="center">
 <img 
-    src="./assets/mockup_fast_cut.jpg"
+    src="./assets/Screenshot%20PT.png"
     width="430"  
 />
 </p>
@@ -25,6 +25,6 @@ Gráficos responsivos gerados no Excel a partir de planilha de gastos, incluindo
 
 
 <p align="center">
-<a href="https://github.com/brunovalerin/ebook-fast-cut-ai/blob/main/output/FAST_CUT_ptbr.pdf" title="View PDF now"> BAIXE A PLANILHA AQUI!</a>
+<a href="https://github.com/brunovalerin/expense-spreadsheet-with-interactive-dashboard/blob/main/Output/Planilha_PT_BR.xlsx" title="View PDF now"> BAIXE A PLANILHA AQUI!</a>
 </p>
 
