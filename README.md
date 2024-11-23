@@ -1,30 +1,30 @@
-# Projeto: Planilha de Gastos Interativa 💸
+# Project: Interactive Expense Spreadsheet 💸
 
 <p align="center">
 <img 
-    src="./Assets/Screenshot_PT.png"
+    src="./Assets/Screenshot_EN.png"
     width="520"  
 />
 </p>
 
-[ENGLISH VERSION](https://github.com/brunovalerin/expense-spreadsheet-with-interactive-dashboard/tree/en_us)
+[PORTUGUES VERSION](https://github.com/brunovalerin/expense-spreadsheet-with-interactive-dashboard/tree/main)
 
 
-## 📒 Descrição
-Gráficos responsivos gerados no Excel a partir de planilha de gastos, incluindo dashboards customizáveis e filtros para melhor experiência do usuário.
+## 📒 Description
+Responsive charts generated in Excel from expense spreadsheets, including customizable dashboards and filters for a better user experience.
 
 
-## 🧐 Processo de Criação
-📁 Os dados recebidos de forma bruta foram organizados como tabela, sendo catalogados formatos de números e corrigidos erros de conversão.
+## 🧐 Creation Process
+📁 The raw data received was organized as a table, number formats were cataloged and conversion errors were corrected.
 
-✂️ O conteúdo obtido foi separado e trabalhado através de filtros e fórmulas, resultando em graficos que fossem relevantes ao usuário. 
+✂️ The content obtained was separated and worked on through filters and formulas, resulting in charts that were relevant to the user. 
 
-📊 Os graficos foram posicionados em aba individual, trabalhando um layout mais amigável e com filtros responsivos.
+📊 The charts were positioned in an individual tab, working on a more user-friendly layout and with responsive filters.
 
 #
 
 
 <p align="center">
-<a href="https://github.com/brunovalerin/expense-spreadsheet-with-interactive-dashboard/blob/main/Output/Planilha_PT_BR.xlsx" title="View PDF now"> BAIXE A PLANILHA AQUI!</a>
+<a href="https://github.com/brunovalerin/expense-spreadsheet-with-interactive-dashboard/blob/main/Output/Planilha_EN_US.xlsx" title="View PDF now"> DOWNLOAD THE SPREADSHEET HERE!</a>
 </p>
 
